@@ -10,3 +10,5 @@
 Параметры прямоугольного выделения  
 ![Alt text](https://github.com/RybinskHCI2019/assignment0-TipoProProger/blob/master/Pict2_1.png "Активная область выделения")  
 Активная область выделения
+
+Автор: Смирнов Михаил ИПБ-16
